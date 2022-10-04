@@ -39,10 +39,10 @@ In Power BI Desktop, you can group data points to help you more clearly view, an
 ### Insights
 A total of 50,000 orders, Revenue is 818K
 In the first quarter, a total of 12K orders was made and revenue was 205K. The month of january and March had high number of sales and 
-In the second quarter, a total of 13K orders was made and revenue was 208K
+In the second quarter, a total of 13K orders was made and revenue was 208K.
 In the third quarter, a total of 12K orders was made and revenue was 205K
 In the fourth quarter, a total of 12K orders was made and revenue was 199K
-1. a 
+
 #### What days and times do we tend to be busiest?
 In order to fully understand the days and time Plato pizza is the busiest I created an hierachy that drills down from the month to the days and time. This would help stakeholders to clearly see the time of the month sales are most,and the day and time.
 Plato Pizza tends to be most busiest during the months of January, March, July and November. Friday, Saturday and Thursday are always busy with high number of orders around 12 to 1pm and 5 to 6pm.
@@ -57,4 +57,4 @@ The top five best selling pizzas are The Classic deluxe pizza, The Barbecue chic
 ##### Worst selling pizzas
 The bottom five worst selling pizzas are The Green garden pizza, The Spinach pesto pizza, The Spinach supreme pizza, The Mediterrenean pizza and, The Brie Carie pizza and the particular pizza types are brie_carie,mediterrano,spinach_supreme,spin_pesto,green_garden.
 #### What's our average order value?
- The average order value is 1.
+The average order value is 1.
