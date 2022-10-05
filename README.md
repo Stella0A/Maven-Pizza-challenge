@@ -37,24 +37,26 @@ In Power BI Desktop, you can group data points to help you more clearly view, an
 ![Screenshot (91)](https://user-images.githubusercontent.com/81259955/193908536-394ef37c-9b47-426d-8dc8-f5c989f4dd29.png)
 
 ### Insights
-A total of 50,000 orders, Revenue is 818K
-In the first quarter, a total of 12K orders was made and revenue was 205K. The month of january and March had high number of sales and 
-In the second quarter, a total of 13K orders was made and revenue was 208K.
-In the third quarter, a total of 12K orders was made and revenue was 205K
-In the fourth quarter, a total of 12K orders was made and revenue was 199K
+#### 1.KPIs
+1. A total of 50,000 orders, Revenue is 818K
+2. In the first quarter, a total of 12K orders was made and revenue was 205K. The month of january and March had high number of sales and the most busiest days Friday and Tuesday
+3. In the second quarter, a total of 13K orders was made and revenue was 208K.The month of May had high number of sales and the most busiest day Friday around 12pm
+3. In the third quarter, a total of 12K orders was made and revenue was 205K. The month of July had high number of sales and the most busiest days wednesday,Friday, Saturday around 12 to 1pm.
+4. In the fourth quarter, a total of 12K orders was made and revenue was 199K. The month of November had high number of sales and the most busiest day Thursday around 12 to 1pm and 6pm.
+5. Plato Pizza has more Large(L), Medium(M) and Small(S) size pizza orders than the Xtra-large(XL) and Xtra-xtra-large(XXL) size order. Classic pizza category has high number of orders than supreme, veggie and chicken.
 
-#### What days and times do we tend to be busiest?
+#### 2. What days and times do we tend to be busiest?
 In order to fully understand the days and time Plato pizza is the busiest I created an hierachy that drills down from the month to the days and time. This would help stakeholders to clearly see the time of the month sales are most,and the day and time.
 Plato Pizza tends to be most busiest during the months of January, March, July and November. Friday, Saturday and Thursday are always busy with high number of orders around 12 to 1pm and 5 to 6pm.
 
-#### How many pizzas are we making during peak periods?
+#### 3. How many pizzas are we making during peak periods?
 A total of 23,817 pizzas are made during peak periods with 13,189 pizzas around 12 to 1pm and 10,628 pizzas around 5 to 6pm.
 
-#### What are our best and worst selling pizzas?
+#### 4. What are our best and worst selling pizzas?
 ##### Best selling pizzas
-In order to fully answer this business question I created an hierachy that shows the best selling pizzas and further drills down to the particular pizza type and the the size of the pizza that sells the most. These helps stakeholders to clearly understand the particualr pizzas & sizes to look out for which could aid efficient decision making.
+In order to fully answer this business question I created an hierachy that shows the best selling pizzas and further drills down to the particular pizza type and size  that sells the most. These helps stakeholders to clearly understand the particular pizzas & sizes to look out for which could aid efficient decision making.
 The top five best selling pizzas are The Classic deluxe pizza, The Barbecue chicken pizza, The Thai chicken pizza, The California chicken pizza and, The Spicy italian pizza and the particualr pizza types are spicy_ital,cali_ckn,thai_ckn,bbq_ckn,classic_dlx.
 ##### Worst selling pizzas
 The bottom five worst selling pizzas are The Green garden pizza, The Spinach pesto pizza, The Spinach supreme pizza, The Mediterrenean pizza and, The Brie Carie pizza and the particular pizza types are brie_carie,mediterrano,spinach_supreme,spin_pesto,green_garden.
-#### What's our average order value?
+#### 5. What's our average order value?
 The average order value is 1.
