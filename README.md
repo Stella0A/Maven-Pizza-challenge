@@ -38,7 +38,7 @@ In Power BI Desktop, you can group data points to help you more clearly view, an
 
 ### Insights
 #### 1.KPIs
-1. A total of 50,000 orders, Revenue is 818K
+1. A total of 49,000 orders, Revenue is 818K
 2. In the first quarter, a total of 12K orders was made and revenue was 205K. The month of january and March had high number of sales and the most busiest days Friday and Tuesday
 3. In the second quarter, a total of 13K orders was made and revenue was 208K.The month of May had high number of sales and the most busiest day Friday around 12pm
 3. In the third quarter, a total of 12K orders was made and revenue was 205K. The month of July had high number of sales and the most busiest days wednesday,Friday, Saturday around 12 to 1pm.
@@ -58,5 +58,6 @@ In order to fully answer this business question I created an hierachy that shows
 The top five best selling pizzas are The Classic deluxe pizza, The Barbecue chicken pizza, The Thai chicken pizza, The California chicken pizza and, The Spicy italian pizza and the particualr pizza types are spicy_ital,cali_ckn,thai_ckn,bbq_ckn,classic_dlx.
 ##### Worst selling pizzas
 The bottom five worst selling pizzas are The Green garden pizza, The Spinach pesto pizza, The Spinach supreme pizza, The Mediterrenean pizza and, The Brie Carie pizza and the particular pizza types are brie_carie,mediterrano,spinach_supreme,spin_pesto,green_garden.
-#### 5. What's our average order value?
-The average order value is 1.
+
+#### 5. What's our average order value?(Average order value (AOV) is an e-commerce metric that tracks the average amount spent whenever a customer places an order.
+The average order value is $17.
